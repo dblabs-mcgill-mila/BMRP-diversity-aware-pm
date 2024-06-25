@@ -1,1 +1,1 @@
-# BMRP-diversity-aware-pm
+# Diversity-aware Population Models: BMRP framework
